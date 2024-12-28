@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/draggable-chat/static/css/main.0f297d38.css",
+    "main.js": "/draggable-chat/static/js/main.c2183c6f.js",
+    "static/js/488.52e7eda0.chunk.js": "/draggable-chat/static/js/488.52e7eda0.chunk.js",
+    "index.html": "/draggable-chat/index.html",
+    "main.0f297d38.css.map": "/draggable-chat/static/css/main.0f297d38.css.map",
+    "main.c2183c6f.js.map": "/draggable-chat/static/js/main.c2183c6f.js.map",
+    "488.52e7eda0.chunk.js.map": "/draggable-chat/static/js/488.52e7eda0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0f297d38.css",
+    "static/js/main.c2183c6f.js"
+  ]
+}
